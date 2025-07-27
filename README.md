@@ -1,8 +1,14 @@
 
-1.Home Page
+Blood group detection using fingerprints through deep learning is an innovative approach that leverages image processing and machine learning advancements to predict an individual's blood group based on their fingerprint patterns. 
+Traditional methods of blood group detection involve blood sample analysis, which can be invasive, time-consuming, and require specialized equipment. 
+This novel methodology aims to provide a non-invasive, rapid, and accessible alternative by analyzing the unique features of fingerprints.
+
+**<img width="7183" height="292" alt="image" src="https://github.com/user-attachments/assets/495ad431-e458-4138-82c0-b77faa6063f7" />-**
+
+**1.Home Page-**
 <img width="891" height="330" alt="image" src="https://github.com/user-attachments/assets/816709bd-4a18-463b-b5ae-c6b3f73ebcdf" />
 
-2.About Page
+**2.About Page-**
 <img width="890" height="294" alt="image" src="https://github.com/user-attachments/assets/691bdff5-fca0-4cce-bb9c-741babcee7ac" />
 
 3.Login Page
